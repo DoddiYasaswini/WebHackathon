@@ -1,0 +1,6 @@
+{
+  "name": "LifeQuest — Turn Your Real Life Into an RPG",
+  "description": "Turn real-world goals into RPG quests. Complete tasks, earn XP, build your character, maintain streaks and unlock rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
